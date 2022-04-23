@@ -16,5 +16,10 @@ namespace BookListWithRazor.Models
 
         public string Author { get; set; }
 
+        //if you have to add a new propeduty in a code first model, you will need 
+        // to do a migration after
+        public string ISBN { get; set; }
+
+
     }
 }

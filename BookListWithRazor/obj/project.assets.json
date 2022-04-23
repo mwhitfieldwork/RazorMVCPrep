@@ -5358,11 +5358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\BookListWithRazor\\BookListRazor\\BookListWithRazor\\BookListWithRazor.csproj",
+      "projectUniqueName": "C:\\Projects\\RazorMVCPrep\\BookListWithRazor\\BookListWithRazor.csproj",
       "projectName": "BookListWithRazor",
-      "projectPath": "C:\\Projects\\BookListWithRazor\\BookListRazor\\BookListWithRazor\\BookListWithRazor.csproj",
+      "projectPath": "C:\\Projects\\RazorMVCPrep\\BookListWithRazor\\BookListWithRazor.csproj",
       "packagesPath": "C:\\Users\\whitf\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\BookListWithRazor\\BookListRazor\\BookListWithRazor\\obj\\",
+      "outputPath": "C:\\Projects\\RazorMVCPrep\\BookListWithRazor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
